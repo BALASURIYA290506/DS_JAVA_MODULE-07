@@ -22,8 +22,8 @@ If there is no cycle, the program should return null without modifying the linke
 /*
 program that detects a cycle in a linked list and returns the node where the cycle begins.
 If there is no cycle, the program should return null without modifying the linked list.
-Developed by: DAPPILI VASAVI
-RegisterNumber:  212223040030
+Developed by: M BALASURIYA
+RegisterNumber:  212224240021
 */
 
 import java.util.*;
